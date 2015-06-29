@@ -1,0 +1,11 @@
+{
+  "name": "contextify-testcase",
+  "version": "0.0.0",
+  "dependencies": {
+    "babel-eslint": "3.1.20",
+    "contextify": "0.1.14",
+    "eslint": "0.24.0",
+    "eslint-tester": "0.8.2",
+    "jest-cli": "0.4.14"
+  }
+}
